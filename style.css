@@ -1,0 +1,48 @@
+
+
+.container {
+    background-color: rgb(189, 163, 214);
+    border: solid black;
+    border-radius: 4px;
+    max-width: auto;
+    margin: 140px auto;
+    padding: 40px auto;
+    
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color:rgb(47, 29, 135) ;
+  }
+  
+  #choices {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    
+    background-color: rgb(43, 69, 152);
+    color: aqua;
+    margin: 0 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    border-radius: 9px;
+  }
+  
+  #result {
+    color: rgb(102, 27, 213);
+    font-size: 18px;
+  }
+  h2{
+    align-items: center;
+    color: rgb(44, 44, 121);
+    margin-left: 500px;
+    font-size: 2rem;
+  }
